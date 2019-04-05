@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
-stayinchannel=true
+owner=563691605526183946
+prefix=1
+game=Break | 1play rewreds gohst
+stayinchannel=false
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTYzNjkzNzQ2ODA2NDU2MzIy.XKdDzw.JjJEOw8H8yMM29ESwdmHyhPmTtM
